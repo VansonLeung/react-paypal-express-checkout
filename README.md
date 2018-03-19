@@ -4,7 +4,7 @@ React component that renders Paypal's express check out button
 ## Install
 
 ```bash
-npm install --save react-paypal-express-checkout
+npm install --save git+https://git@github.com/VansonLeung/react-paypal-express-checkout.git
 ```
 
 ## Usage
